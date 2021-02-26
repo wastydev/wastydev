@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://discord.gg/csahjqM"><img alt="Discord" title="Discord" src="https://img.shields.io/discord/770903318540058624?label=Discord&logo=Discord&logoColor=white?style=flat-square"/></a>
-  <a href="https://github.com/wastyisgod"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/wastydev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/wastyisgod"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wastydev&label=Profile%20views&color=00ffaa&style=flat-square"/></a>
+  <a href="https://github.com/wastydev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/wastydev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/wastydev"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wastydev&label=Profile%20views&color=00ffaa&style=flat-square"/></a>
 </p>
 
 ## 📖 About me
@@ -32,7 +32,7 @@
 
 <p align="left">
   <a href="https://www.youtube.com/channel/UCEnPyufpcNp56NH6tU9xolA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/wastydabest"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.instagram.com/thewasty"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
 </p>
 
 
