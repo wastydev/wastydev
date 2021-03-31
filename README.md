@@ -4,8 +4,8 @@
 
 <p align="center">
   <a href="https://discord.gg/csahjqM"><img alt="Discord" title="Discord" src="https://img.shields.io/discord/770903318540058624?label=Discord&logo=Discord&logoColor=white?style=flat-square"/></a>
-  <a href="https://github.com/wastydev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/wastydev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
-  <a href="https://github.com/wastydev"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wastydev&label=Profile%20views&color=00ffaa&style=flat-square"/></a>
+  <a href="https://github.com/wraliu"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/wastydev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
+  <a href="https://github.com/wraliu"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wastydev&label=Profile%20views&color=00ffaa&style=flat-square"/></a>
 </p>
 
 ## 📖 About me
@@ -20,12 +20,12 @@
 
 ## Stats  <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
 
-![Wasty Stats](https://github-readme-stats.vercel.app/api?username=wastydev&theme=vue-dark&show_icons=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wastydev&layout=compact&theme=vue-dark)
+![Wasty Stats](https://github-readme-stats.vercel.app/api?username=wraliu&theme=vue-dark&show_icons=true)
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=wraliu&layout=compact&theme=vue-dark)
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wastydev&" alt="wastydev" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=wraliu&" alt="wastydev" /></p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wastydev" alt="wastydev" /></a> </p>
+<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=wraliu" alt="wastydev" /></a> </p>
 
 
 ## 🙋‍♂️ Connect with me:
