@@ -3,7 +3,7 @@
 <h3 align="center">Hey there, I'm Erçağ - aka Wasty <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="28"> <img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="28"/></h3>
 
 <p align="center">
-  <a href="https://discord.gg/SDNExNq39z"><img alt="Discord" title="Discord" src="https://img.shields.io/discord/818867851310006315?color=%23000000&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=for-the-badge"/></a>
+  <a href="https://discord.gg/SDNExNq39z"><img alt="Discord" title="Discord" src="https://img.shields.io/discord/818867851310006315?color=%23000000&label=Discord&logo=Discord&logoColor=%23FFFFFF&style=flat-square"/></a>
   <a href="https://github.com/wastydev"><img alt="followers" title="Follow me on Github" src="https://img.shields.io/github/followers/wastydev?color=236ad3&style=for-the-badge&logo=github&label=Follow"/></a>
   <a href="https://github.com/wastydev"><img alt="views" title="Github views" src="https://komarev.com/ghpvc/?username=wastydev&label=Profile%20views&color=00ffaa&style=for-the-badge"/></a>
 </p>
