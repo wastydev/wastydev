@@ -10,11 +10,10 @@
 
 ## 📖 About me
 
-* 💻 I'm a beginner codder ( JavaScript & HTML & CSS )
-* 🎨 I'm a designer of my own caliber
-* 🎓 I play cs 1.6 when I'm bored
-* 🌐 I shoot videos on my [youtube channel](https://www.youtube.com/channel/UCEnPyufpcNp56NH6tU9xolA)
-* 📺 I think you can join my [discord server](https://discord.gg/csahjqM)
+* 💻 I'm a beginner codder ( JavaScript )
+* 🎓 I'm a university student. ( Logistics )
+* 🌐 I shoot videos on my [youtube channel](https://www.youtube.com/wasty)
+* 📺 I think you can join my [discord server](https://discord.gg/)
 
 
 
@@ -31,8 +30,7 @@
 ## 🙋‍♂️ Connect with me:
 
 <p align="left">
-  <a href="https://www.youtube.com/channel/UCEnPyufpcNp56NH6tU9xolA"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
-  <a href="https://www.instagram.com/thewasty"><img alt="Instagram" title="Instagram" src="https://img.shields.io/badge/-Instagram-blueviolet?style=for-the-badge&logo=instagram&logoColor=white"></a>
+  <a href="https://www.youtube.com/wasty"><img alt="Youtube" title="Youtube" src="https://img.shields.io/badge/-YouTube-red?style=for-the-badge&logo=youtube&logoColor=white"/></a>
 </p>
 
 
@@ -43,12 +41,6 @@
         <tr>
             <td><a href="#"><img alt="JavaScript" title="JavaScript" height="28px"
                         src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/javascript/javascript.png" /></a>
-            </td>
-            <td><a href="#"><img alt="HTML5" title="HTML5" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" /></a>
-            </td>
-            <td><a href="#"><img alt="CSS3" title="CSS3" height="28px"
-                        src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" /></a>
             </td>
         </tr>
         <tr>
@@ -73,4 +65,4 @@
     </tbody>
 </table>
 
-Last Edited on: 12.02.2021
+Last Edited on: 26.10.2024
