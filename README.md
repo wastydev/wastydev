@@ -1,4 +1,4 @@
-# 🌀 WASTY (a.k.a. Erçağ)
+# 🀄 Wasty (a.k.a. Erçağ)
 
 > *"Code is chaos. I just learned how to dance with it."*
 
